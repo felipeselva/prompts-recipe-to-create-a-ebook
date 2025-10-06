@@ -1,7 +1,6 @@
 <p align="center">
-    <img width="100" src=".github/assets/banner.png">
+    <img width="100" src=".github/assets/banner.png" alt="Banner do Projeto">
 </p>
-
 
 <p align="center">
 <a href="https://dio.me/"><img src="https://img.shields.io/badge/DIO-Course-28DA77?logo=youtube" alt="DIO - course"></a>
@@ -9,60 +8,64 @@
 
 -------
 
-
 <p align="center">
 <img 
     src="./assets/cover.png"
-    width="400"  
+    width="400"
+    alt="Capa do E-book"
 />
 </p>
 
-# Projeto EBOOK Gerado por I.A.s
+# Projeto E-book sobre Bitcoin Gerado por I.A.s
 
+> ℹ️ **NOTE:** Este é o repositório desenvolvido durante o curso no qual fui instrutor técnico na plataforma da [DIO](https://dio.me)
 
- > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o curso no qual fui instrutor técnico na plataforma da [DIO](https://dio.me)
+Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA, explorando o tema do Bitcoin sob uma perspectiva anarco-coletivista e entusiasta da tecnologia. Todos os prompts utilizados na criação seguem abaixo.
 
-Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
-seguem abaixo.
-
-<a href="https://github.com/felipeAguiarCode/prompts-recipe-to-create-a-ebook/blob/main/output/ebook%20-%20css%20jedi%20output.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
+<a href="./output/bitcoin-insurreicao-digital.pdf" title="Leia o PDF"> 📕Clique aqui para ler (Exemplo de caminho)</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
-- [ChatGPT](https://chat.openai.com/) 
-- [MidJourney](https://www.midjourney.com/app/)
-- [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
+- [Gemini](https://gemini.google.com/)
+- [Ferramenta de Diagramação](https://www.canva.com/) (ex: Canva, PowerPoint, Figma)
 
 ## 🧠 Prompts
 
+A criação deste e-book foi um processo iterativo e colaborativo com a IA. Abaixo está o histórico de prompts que moldou o conteúdo final.
 
-ChatGPT：
+#### Gemini (para Texto):
 
-|   Ação   | prompt                                                                                                                                                                                                                                                                         |
-| :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie um título de um ebook sobre o tema de css, o ebookk é do nicho de programação e o subnicho é de css, o título deve ser épico e curto, e tenha uma temática de star wars no título, me liste 5 variações de títulos                                                        |
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
+| Ação | Prompt |
+| :---: | :--- |
+| **Criação Inicial** | `faça um texto para ebook, com foco em bitcoin, listando os principais pontos da tecnologia e ferramentas auxiliares, por exemplo TOR, VPN, PGP, VERIFICACAO DE ASSINATURAS, NODE PROPRIO E TAILS.` |
+| **Refinamento 1** | `Perfeito, porém quero retirar o capitulo sobre PGP, mantenha a quantidade de paginas e aproveite para aprofundar em outras questoes ja mencionadas` |
+| **Refinamento 2** | `...quero trazer um pouco das limitaçoes do bitcoin de uma perspectiva anarco comunista... crie um capitulo final sobre as limitacoes atraves dessa perspectiva` |
+| **Refinamento 3** | `nao entendi` (Este prompt gerou uma simplificação e clarificação da crítica complexa, um passo crucial no processo) |
+| **Reescrita Final**| `Agora pegue esse documento e recrie através dessa perspectiva [anarco-coletivista]... e que a pessoa seja uma entusiasta da tecnologia bitcoin apesar das contradições` |
 
+#### Gemini (para Imagens):
 
-Midjourney：
+| Ação | Prompt |
+| :--: | :--- |
+| **Capa do E-book** | `Crie uma imagem no estilo de um pôster de propaganda revolucionária. A imagem deve mostrar um punho erguido segurando uma moeda de bitcoin brilhante. O fundo deve ter redes digitais e as cores predominantes devem ser vermelho, preto e dourado.` |
+| **Banner/Interno** | `Desenhe uma ilustração em pixel art detalhada de um grupo diverso de pessoas, de diferentes origens, colaborando para operar um "nó" de bitcoin que brilha. Eles estão em um jardim comunitário, com uma estética solarpunk e um sentimento de esperança.` |
 
-|  Ação  | prompt                                                                                 |
-| :----: | -------------------------------------------------------------------------------------- |
-| título | A jedi in meditation pose, with your blue lightsaber floating, pixel art style --v 5.1 |
 
 ## ✨ Features
 
-- Conteúdo gerado via ChatGPT
-- Imagens geradas via MidJourney
+- Conteúdo de texto gerado e refinado via Gemini em um processo de múltiplas etapas.
+- Imagens temáticas geradas via Gemini.
 
 ## 📚 Materiais
 
-- Imagens utilizadas em `assets`
-- ebook gerado durante as aulas em `output`
+- Imagens utilizadas para a capa e banner podem ser encontradas em `assets`.
+- A versão final do e-book em PDF pode ser encontrada em `output`.
 
 ## 🛠️ Instruções de execução
 
-Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição de documentos como power point, libreoffice , indesign para diagramação.
+1.  Utilize os prompts de texto da tabela acima na ferramenta **Gemini** para gerar o conteúdo do e-book.
+2.  Utilize os prompts de imagem sugeridos no **Gemini** para criar a identidade visual (capa, banner, etc.).
+3.  Com o texto e as imagens em mãos, utilize uma ferramenta de edição e diagramação (como PowerPoint, Canva, Figma, etc.) para montar, formatar e exportar o e-book final em PDF.
 
 ## 👨‍💻 Expert
 
