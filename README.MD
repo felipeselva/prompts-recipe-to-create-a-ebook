@@ -44,8 +44,7 @@ A criação deste e-book foi um processo iterativo para refinar o conteúdo até
 
 | Ação | Prompt |
 | :--: | :--- |
-| **Capa do E-book** | `Crie uma imagem de capa para um e-book sobre Bitcoin e soberania digital. A imagem deve mostrar uma chave digital brilhante com o símbolo do Bitcoin na ponta, destravando um cadeado digital complexo. O estilo deve ser moderno e minimalista, com um esquema de cores azul escuro e dourado.` |
-| **Banner/Interno** | `Uma visualização abstrata de uma rede descentralizada peer-to-peer, com nós brilhantes se conectando através de um globo terrestre escuro. A estética deve ser futurista e elegante, representando a rede global do Bitcoin.` |
+| **Capa do E-book** | `A person in contemporary hacker clothes sitting calmly in a wide green field, with a small private tent nearby, holding a glowing Bitcoin symbol in their hand. The scene is peaceful and natural, inspired by the privacy and freedom of Tails OS. Cartoon style, comic book illustration, warm colors, clean lines, no futuristic elements, minimal tech. Soft sunlight, breeze in the grass, subtle digital particles floating in the air. A gentle blend of technology and nature --v 5 --ar 16:9 --style illustrated` |
 
 
 ## ✨ Features
@@ -61,5 +60,5 @@ A criação deste e-book foi um processo iterativo para refinar o conteúdo até
 ## 🛠️ Instruções de execução
 
 1.  Utilize os prompts de texto da tabela acima na ferramenta **Gemini** para gerar o conteúdo do e-book.
-2.  Utilize os prompts de imagem sugeridos no **Gemini** para criar a identidade visual (capa, banner, etc.).
+2.  Utilize o prompt de imagem fornecido no **Gemini** para criar a identidade visual (capa, banner, etc.).
 3.  Com o texto e as imagens em mãos, utilize uma ferramenta de edição e diagramação (como PowerPoint, Canva, Figma, etc.) para montar, formatar e exportar o e-book final em PDF.
