@@ -20,9 +20,9 @@
 
 > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o curso no qual fui instrutor técnico na plataforma da [DIO](https://dio.me)
 
-Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA, explorando o tema do Bitcoin sob uma perspectiva anarco-coletivista e entusiasta da tecnologia. Todos os prompts utilizados na criação seguem abaixo.
+Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. O conteúdo foca em apresentar o Bitcoin como uma ferramenta para a **soberania digital e financeira**, detalhando a tecnologia e as principais ferramentas de segurança e privacidade. Todos os prompts que levaram a esta versão do e-book seguem abaixo.
 
-<a href="./output/bitcoin-insurreicao-digital.pdf" title="Leia o PDF"> 📕Clique aqui para ler (Exemplo de caminho)</a>
+<a href="./output/desvendando-o-bitcoin.pdf" title="Leia o PDF"> 📕Clique aqui para ler (Exemplo de caminho)</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
@@ -31,30 +31,27 @@ Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramen
 
 ## 🧠 Prompts
 
-A criação deste e-book foi um processo iterativo e colaborativo com a IA. Abaixo está o histórico de prompts que moldou o conteúdo final.
+A criação deste e-book foi um processo iterativo para refinar o conteúdo até a versão final desejada.
 
 #### Gemini (para Texto):
 
 | Ação | Prompt |
 | :---: | :--- |
 | **Criação Inicial** | `faça um texto para ebook, com foco em bitcoin, listando os principais pontos da tecnologia e ferramentas auxiliares, por exemplo TOR, VPN, PGP, VERIFICACAO DE ASSINATURAS, NODE PROPRIO E TAILS.` |
-| **Refinamento 1** | `Perfeito, porém quero retirar o capitulo sobre PGP, mantenha a quantidade de paginas e aproveite para aprofundar em outras questoes ja mencionadas` |
-| **Refinamento 2** | `...quero trazer um pouco das limitaçoes do bitcoin de uma perspectiva anarco comunista... crie um capitulo final sobre as limitacoes atraves dessa perspectiva` |
-| **Refinamento 3** | `nao entendi` (Este prompt gerou uma simplificação e clarificação da crítica complexa, um passo crucial no processo) |
-| **Reescrita Final**| `Agora pegue esse documento e recrie através dessa perspectiva [anarco-coletivista]... e que a pessoa seja uma entusiasta da tecnologia bitcoin apesar das contradições` |
+| **Refinamento Final** | `Perfeito, porém quero retirar o capitulo sobre PGP, mantenha a quantidade de paginas e aproveite para aprofundar em outras questoes ja mencionadas` |
 
 #### Gemini (para Imagens):
 
 | Ação | Prompt |
 | :--: | :--- |
-| **Capa do E-book** | `Crie uma imagem no estilo de um pôster de propaganda revolucionária. A imagem deve mostrar um punho erguido segurando uma moeda de bitcoin brilhante. O fundo deve ter redes digitais e as cores predominantes devem ser vermelho, preto e dourado.` |
-| **Banner/Interno** | `Desenhe uma ilustração em pixel art detalhada de um grupo diverso de pessoas, de diferentes origens, colaborando para operar um "nó" de bitcoin que brilha. Eles estão em um jardim comunitário, com uma estética solarpunk e um sentimento de esperança.` |
+| **Capa do E-book** | `Crie uma imagem de capa para um e-book sobre Bitcoin e soberania digital. A imagem deve mostrar uma chave digital brilhante com o símbolo do Bitcoin na ponta, destravando um cadeado digital complexo. O estilo deve ser moderno e minimalista, com um esquema de cores azul escuro e dourado.` |
+| **Banner/Interno** | `Uma visualização abstrata de uma rede descentralizada peer-to-peer, com nós brilhantes se conectando através de um globo terrestre escuro. A estética deve ser futurista e elegante, representando a rede global do Bitcoin.` |
 
 
 ## ✨ Features
 
-- Conteúdo de texto gerado e refinado via Gemini em um processo de múltiplas etapas.
-- Imagens temáticas geradas via Gemini.
+- Conteúdo de texto gerado e refinado via Gemini.
+- Imagens temáticas geradas via Gemini, focadas em tecnologia e segurança.
 
 ## 📚 Materiais
 
@@ -66,30 +63,3 @@ A criação deste e-book foi um processo iterativo e colaborativo com a IA. Abai
 1.  Utilize os prompts de texto da tabela acima na ferramenta **Gemini** para gerar o conteúdo do e-book.
 2.  Utilize os prompts de imagem sugeridos no **Gemini** para criar a identidade visual (capa, banner, etc.).
 3.  Com o texto e as imagens em mãos, utilize uma ferramenta de edição e diagramação (como PowerPoint, Canva, Figma, etc.) para montar, formatar e exportar o e-book final em PDF.
-
-## 👨‍💻 Expert
-
-<p>
-    <img 
-      align=left 
-      margin=10 
-      width=80 
-      src="https://avatars.githubusercontent.com/u/37452836?v=4"
-    />
-    <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
-    &nbsp&nbsp&nbsp
-    <a href="https://github.com/felipeAguiarCode">
-    GitHub</a>&nbsp;|&nbsp;
-    <a href="www.linkedin.com/in/
-felipe-exe">LinkedIn</a>
-&nbsp;|&nbsp;
-    <a href="https://www.instagram.com/felipeaguiar.exe/">
-    Instagram</a>
-&nbsp;|&nbsp;</p>
-</p>
-<br/><br/>
-<p>
-
----
-
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
